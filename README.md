@@ -9,15 +9,13 @@
 
 ## Group Members
 
-| Name | Student Number | GitHub Username |
-|------|---------------|-----------------|
-| Member 1 | | |
-| Member 2 | | |
-| Member 3 | | |
-| Member 4 | | |
-| Member 5 | | |
-
-> Fill in the table above with your group's details.
+| Name | Student Number |
+|------|---------------|
+| Haihambo T. Lineekela | 223090506 |
+| Elton Lisho | 216070325 |
+| Moses N. Lasarus | 224067834 |
+| Ntinda Simon | 224028162 |
+| Amutenya N. Matias | 223100188 |
 
 ---
 
