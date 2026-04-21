@@ -9,13 +9,13 @@
 
 ## Group Members
 
-| Name | Student Number |
-|------|---------------|
-| Haihambo T. Lineekela | 223090506 |
-| Elton Lisho | 216070325 |
-| Moses N. Lasarus | 224067834 |
-| Ntinda Simon | 224028162 |
-| Amutenya N. Matias | 223100188 |
+| Name | Student Number | GitHub Username |
+|------|---------------|----------------|
+| Haihambo T. Lineekela | 223090506 | lineekela065 |
+| Elton Lisho | 216070325 | EltonLisho |
+| Moses N. Lasarus | 224067834 | moseslazarus960 |
+| Ntinda Simon | 224028162 | 224028162 |
+| Amutenya N. Matias | 223100188 | uncledope03 |
 
 ---
 
