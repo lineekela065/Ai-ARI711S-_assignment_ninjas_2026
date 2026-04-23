@@ -102,7 +102,7 @@ class Warehouse:
         frontier = PriorityQueue()
         counter = count()  # 🔥 tie-breaker
 
-        # initial push
+
         frontier.put((0, next(counter), start_node))
 
         cost_so_far = {self.start: 0}
